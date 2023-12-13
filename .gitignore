@@ -8,3 +8,12 @@ __pycache__/
 moodle_data
 moodle_data_vdb
 prujuai_moodle
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
